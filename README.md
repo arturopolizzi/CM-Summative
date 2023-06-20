@@ -1,5 +1,5 @@
 # CM-Summative
-## Formative assessment for unit IU000111, "Creative Making: Experience and Physical Computing"
+Formative assessment for unit IU000111, "Creative Making: Experience and Physical Computing"
 
 # Introduction
 My Arduino project submission is a voice-controlling glove. It uses a resistance reading from a flex sensor as its input, and can be used to pass MIDI Control Change signals to any USB MIDI–enabled piece of software, meaning you are able to add effects to your vocal performance in real time. The output is the audio of the vocal with glove-controlled FX. Check out the accompanying video to see the development process and result in action!
